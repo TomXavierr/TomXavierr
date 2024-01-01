@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm an Intern at BROTOTYPE<br><br>🌱 Currently learning full stack web development using Python, Django & React<br><br>📫 reach me tomxavieronthego@gmail.com
+🔭 <br>Python Full Stack Developer<br>📫 reach me tomxavieronthego@gmail.com
 
 
 ## 🌐 Socials:
